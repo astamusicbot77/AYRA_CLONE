@@ -59,7 +59,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 #SOURCE = getenv("SOURCE", "")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/ITzastamusic/ASTA_CLONE",
+    "https://github.com/ITzastamusic/AYRA_CLONE",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -74,8 +74,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ixasta1")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/odsnetwork")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ioxSupport")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ioxupdate")
 #-----------------------------------------------------
 # -------------------------------------------------------------------------------
 
